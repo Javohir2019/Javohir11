@@ -1,0 +1,36 @@
+Bular turli vaziyatlarda ishlatiladigan umumiy Git buyruqlari:
+
+    1. ish joyini ishga tushiring (shuningdek qarang: git yordam bo'limi);
+
+
+                clone  -   Repozitariyni yangi katalogga klonlash,
+            
+                init   - Bo'sh Git omborini yarating yoki mavjudini qayta ishga tushiring
+    
+    
+    
+    2. joriy o'zgarish ustida ishlash (shuningdek qarang: git help everyday);
+
+                add -   Yangi fayllarni  navbatga qo'shish
+
+                mv  -   Faylni, katalogni yoki ramziy havolani ko'chiring yoki nomini o'zgartiring
+                
+                restore - Ishlaydigan daraxt fayllarini tiklang
+                
+                rm  -   Fayllarni ishchi daraxtdan va indeksdan olib tashlang
+
+
+    3. tarix va holatni ko'rib chiqing (shuningdek qarang: git yordam tahrirlar);
+
+                bisect  -  Xato keltirgan majburiyatni topish uchun ikkilik qidiruvdan foydalaning
+                
+                diff    -  Majburiyatlar, majburiyatlar va ishlaydigan daraxt va boshqalar o'rtasidagi o'zgarishlarni ko'rsatish    
+                
+                grep    -  Naqshga mos keladigan chiziqlarni chop eting    
+                
+                log     -  Qabul qilish jurnallarini ko'rsatish
+                
+                show    -  Har xil turdagi ob'ektlarni ko'rsating
+                
+                status  -  Ishlaydigan daraxt holatini ko'rsating
+                
